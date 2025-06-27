@@ -12,5 +12,10 @@ A simple, interactive Python script to generate secure passwords based on user p
 1. Make sure Python is installed on your system.
 2. Run the script in terminal:
 
-```bash
-python password_generator.py
+  ```bash
+  python password_generator.py
+  ```
+---
+
+## 👩‍💻 Author
+Made with 💻 and ☕ by [**Kanak Bansal**](https://github.com/kanakpbansal)
