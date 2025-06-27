@@ -35,5 +35,6 @@ A soft terminal-based bot that asks how you're feeling and gives comforting resp
    ```bash
    git clone https://github.com/kanakpbansal/python-mini-projects.git
    ```
-   **👩‍💻 Author**  
-   Made with 💻 and ☕ by [**Kanak Bansal**](https://github.com/kanakpbansal)
+
+##👩‍💻 Author**  
+Made with 💻 and ☕ by [**Kanak Bansal**](https://github.com/kanakpbansal)
