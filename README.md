@@ -37,5 +37,5 @@ A soft terminal-based bot that asks how you're feeling and gives comforting resp
    ```
 ---
 
-##👩‍💻 Author**  
+##👩‍💻 Author
 Made with 💻 and ☕ by [**Kanak Bansal**](https://github.com/kanakpbansal)
