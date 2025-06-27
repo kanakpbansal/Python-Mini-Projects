@@ -30,9 +30,8 @@ It’s a small project focused on input handling, dictionary usage, and terminal
 1. Install required library (if not already installed):
    ```bash
    pip install colorama
-```
-
+   ```
+---
 
 ## 👩‍💻 Author
-Made with 💻 and ☕ by **Kanak Bansal**
-GitHub: [kanakpbansal](https://github.com/kanakpbansal)
+Made with 💻 and ☕ by [**Kanak Bansal**](https://github.com/kanakpbansal)
